@@ -12,3 +12,6 @@ Track all chat messages on Twitch
 ```bash
 npm start
 ```
+
+# Screenshots
+![Screenshot 1](screenshots/screenshot-1.png)
